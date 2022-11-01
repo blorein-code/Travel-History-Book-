@@ -61,6 +61,7 @@
                         <outlet property="commentField" destination="wpn-2V-HA3" id="bGl-Fx-mTd"/>
                         <outlet property="mapView" destination="rDX-fp-Hhf" id="Sel-m5-gqV"/>
                         <outlet property="nameField" destination="Vhv-YH-KDQ" id="0X6-FY-Wp2"/>
+                        <outlet property="saveButton" destination="FUT-Pk-iwZ" id="ddD-iY-ee5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
